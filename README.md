@@ -7,6 +7,7 @@ This plug load dataset contains current and voltage measurements sampled at 30 k
 
 A spectrogram is a visual representation of the various frequencies of sound as they vary with time. The x-axis represents time (2 seconds in our case), and the y-axis represents frequency (measured in Hz). The colors indicate the amplitude of a particular frequency at a particular time (i.e., how loud it is). We're measuring amplitude in decibels, with 0 being the loudest, and -80 being the softest. So in the example spectrogram below, lower frequencies are louder than higher frequencies. Our spectrograms tend to have horizontal lines given that we are capturing appliances in their steady-state. In other words, the amplitudes of various frequencies are fairly constant over time.
 
+### Example Spectogram Image
 <img src="https://s3.amazonaws.com/drivendata-public-assets/example_spectrogram.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
